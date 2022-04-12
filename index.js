@@ -86,4 +86,5 @@ function restart(){
     hasBlackJack=false;
     restartEl.style.display="none";
     startGame();
+    
 }
