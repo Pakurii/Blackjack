@@ -87,4 +87,7 @@ function restart(){
     restartEl.style.display="none";
     startGame();
     
+
+
+    
 }
